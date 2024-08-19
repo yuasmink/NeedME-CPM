@@ -13,7 +13,7 @@
 ## Installation
 [don't know how to install python ?](#install-python)
 ```
-git clone https://github.com/NeedME/needme.git
+git clone https://github.com/luizbrgg/NeedME-CPM
 ```
 ```
 cd needme
