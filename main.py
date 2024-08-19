@@ -6,7 +6,7 @@ import os, signal, sys
 import subprocess
 import progressbar
 from getpass import getpass
-from needme-cpm import needme
+from NeedME-CPM import needme
 from pystyle import Add, Center, Anime, Colors, Colorate, Write, System
 from colorama import Fore, Style, init
 from pystyle import System as pySystem
