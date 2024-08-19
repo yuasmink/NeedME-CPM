@@ -16,7 +16,7 @@
 git clone https://github.com/luizbrgg/NeedME-CPM
 ```
 ```
-cd needme
+cd NeedME-CPM
 ```
 ```
 pip install -r requirements.txt
